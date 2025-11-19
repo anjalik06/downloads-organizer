@@ -33,7 +33,7 @@ Downloads/
 ##  How to Run
 ### 1. Clone the repository
 ```
-git clone https://github.com/your-username/downloads-organizer.git
+git clone https://github.com/anjalik06/downloads-organizer.git
 cd downloads-organizer
 ```
 
